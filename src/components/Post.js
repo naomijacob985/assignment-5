@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Post = ({ post, onDelete }) => {
   return (
     <div>
@@ -12,7 +11,6 @@ const Post = ({ post, onDelete }) => {
     </div>
   );
 };
-
 export default Post;
 
 
